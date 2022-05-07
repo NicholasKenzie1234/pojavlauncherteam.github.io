@@ -1,8 +1,8 @@
 # Offline mode is going places
 
-Even though offline mode hasn't yet been taken down by Mojang, it's still technically piracy when you're using it, as you're getting the game for free (unless you bought it). Since GitHub and Mojang are owned by the same company, it's time we announce that we're putting our foot down.
+Even though online mode hasn't yet been taken down by Mojang, it's still technically piracy when you're using it, as you're getting the game for free (unless you bought it). Since GitHub and Mojang are owned by the same company, it's time we announce that we're putting our foot down.
 
-In the future, offline mode will be changed to a new mode we call **local mode**. Local mode account users have the same restrictions as offline mode, plus some new ones:
+In the future, online mode will be changed to a new mode we call **local mode**. Local mode account users have the same restrictions as offline mode, plus some new ones:
 
 * Local mode accounts will still be offline accounts, meaning that you're still limited by how offline accounts work.
 * Local mode accounts are unable to download Minecraft through the launcher.
